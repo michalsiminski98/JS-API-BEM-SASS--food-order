@@ -38,10 +38,10 @@ body {
             align-items: center;
             list-style: none;
 
-            // &-element--favourites,
-            // &-element--recipes {
-            //     display: none;
-            // }
+            &-element--favourites,
+            &-element--recipes {
+                display: none;
+            }
 
             & * {
                 text-decoration: none;
